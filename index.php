@@ -209,7 +209,7 @@
     </section>
 
     <!-----footer-->
-    <footer data-aos="flip-up">
+    <footer>
       <div  class="footer">
         <div><a href="index.html"><img src="images/Frame 2572.png" alt=""></a></div>
         <li ><a href="https://www.facebook.com/"><i class="fab fa-facebook-square" ></i></a></li>
