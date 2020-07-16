@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "dbConnect.php";/**including the databse connection file */
+include "../dbConnect.php";/**including the databse connection file */
 if ($_SERVER['REQUEST_METHOD']=='POST') {
     $email = $_POST['email'];
     if(filter_var($email, FILTER_VALIDATE_EMAIL))
